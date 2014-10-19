@@ -1,0 +1,15 @@
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\bin\Debug\1StringIsPalindrome.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\bin\Debug\1StringIsPalindrome.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\StringIsPalindrome.Form1.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\StringIsPalindrome.Properties.Resources.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.csproj.GenerateResource.Cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.pdb
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.exe
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.pdb
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\bin\Debug\1StringIsPalindrome.exe
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\bin\Debug\1StringIsPalindrome.pdb
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\StringIsPalindrome.Form1.resources
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\StringIsPalindrome.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\1StringIsPalindrome\1StringIsPalindrome\obj\x86\Debug\1StringIsPalindrome.csproj.GenerateResource.Cache
